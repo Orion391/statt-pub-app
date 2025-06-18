@@ -1,0 +1,12 @@
+{
+    "indexes": [
+      {
+        "collectionGroup": "movimenti",
+        "queryScope": "COLLECTION",
+        "fields": [
+          { "fieldPath": "tipo", "order": "ASCENDING" },
+          { "fieldPath": "data", "order": "DESCENDING" }
+        ]
+      }
+    ]
+  }

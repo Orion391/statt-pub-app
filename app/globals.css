@@ -1,0 +1,27 @@
+@import 'tailwindcss/base';
+/* Import Tailwind components layer */
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+:root {
+  --font-display: 'Inter', sans-serif;
+}
+/* Variabili globali */
+:root {
+  --background: #ffffff;
+  --foreground: #1f2937; /* gray-800 */
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: system-ui, sans-serif;
+}
