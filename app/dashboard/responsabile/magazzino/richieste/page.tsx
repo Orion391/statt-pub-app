@@ -1,5 +1,3 @@
-// by Orion
-
 // app/dashboard/responsabile/magazzino/page.tsx
 'use client';
 

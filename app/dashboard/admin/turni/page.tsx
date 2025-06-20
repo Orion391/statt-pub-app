@@ -1,5 +1,3 @@
-// by Orion
-
 'use client';
 import TurniCalendar from './TurniCalendar';
 

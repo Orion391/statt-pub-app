@@ -1,5 +1,3 @@
-// by Orion
-
 'use client';
 
 import Link from 'next/link';

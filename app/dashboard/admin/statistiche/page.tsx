@@ -1,5 +1,3 @@
-// by Orion
-
 // app/dashboard/admin/statistiche/page.tsx
 import { redirect } from 'next/navigation';
 

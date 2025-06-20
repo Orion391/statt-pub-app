@@ -1,5 +1,3 @@
-// by Orion
-
 // app/dashboard/admin/statistiche/layout.tsx
 'use client';
 import Link from 'next/link';

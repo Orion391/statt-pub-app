@@ -1,5 +1,3 @@
-// by Orion
-
 'use client';
 
 import React from 'react';
